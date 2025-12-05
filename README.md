@@ -10,30 +10,47 @@ Aspiring Data & ML Engineer • ECE Student • IoT & AI Explorer
 
 🛠️ Tech Stack
 Languages
-Java . Python · C · HTML · CSS · JavaScript 
+
+Java . Python · C · HTML · CSS · JavaScript
 
 Tools & Platforms
-Arduino · VS Code · Git · GitHub · Blynk
+
+Arduino · VS Code · Git · GitHub · Blynk . Matlab
 
 Domains I Work In
-Machine Learning · IoT Systems · Embedded Projects · Data Analytics . web dev
+
+Machine Learning · IoT Systems · Embedded Projects · Data Analytics . Jfsd 
 
 🚀 Current Focus
+
 Building ML models for real-world applications
+
 Developing IoT-based monitoring & security systems
+
 Enhancing my skills in Python + Data Science
+
 Working on AI agent frameworks & automation tools
 
 
 🌟 My Projects Include
+
 🤖 AI-powered Job Screening System
+
 📡 IoT Smart Environment & Security Monitor
+
 🔔 Automated Door Alert + Object Counter
+
 📊 Data Analytics dashboards
+
 🎛️ Embedded system prototypes with sensors
+
+💫 GitHub Stats
+
+(These auto-update!)
 
 
 🌐 Connect With Me
+
 www.linkedin.com/in/sathvika-k1001
 
 
@@ -41,3 +58,4 @@ www.linkedin.com/in/sathvika-k1001
 
 I love creating projects that solve real problems —
 simple ideas, impactful results! ✨
+
