@@ -44,10 +44,6 @@ Working on AI agent frameworks & automation tools
 
 🎛️ Embedded system prototypes with sensors
 
-💫 GitHub Stats
-
-(These auto-update!)
-
 
 🌐 Connect With Me
 
